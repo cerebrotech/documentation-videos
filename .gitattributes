@@ -2,3 +2,7 @@ quick-transformations/*.mp4 filter=lfs diff=lfs merge=lfs -text
 quick-transformations/*.gif filter=lfs diff=lfs merge=lfs -text
 quick-visualization/*.mp4 filter=lfs diff=lfs merge=lfs -text
 quick-visualization/*.gif filter=lfs diff=lfs merge=lfs -text
+quick-app/*.mp4 filter=lfs diff=lfs merge=lfs -text
+quick-app/*.gif filter=lfs diff=lfs merge=lfs -text
+quick-app-deploy/*.mp4 filter=lfs diff=lfs merge=lfs -text
+quick-app-deploy/*.gif filter=lfs diff=lfs merge=lfs -text
