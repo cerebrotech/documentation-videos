@@ -6,3 +6,7 @@ quick-app/*.mp4 filter=lfs diff=lfs merge=lfs -text
 quick-app/*.gif filter=lfs diff=lfs merge=lfs -text
 quick-app-deploy/*.mp4 filter=lfs diff=lfs merge=lfs -text
 quick-app-deploy/*.gif filter=lfs diff=lfs merge=lfs -text
+quick-snippets/*.mp4 filter=lfs diff=lfs merge=lfs -text
+quick-snippets/*.gif filter=lfs diff=lfs merge=lfs -text
+quick-load-data-s3/*.mp4 filter=lfs diff=lfs merge=lfs -text
+quick-load-data-s3/*.gif filter=lfs diff=lfs merge=lfs -text
